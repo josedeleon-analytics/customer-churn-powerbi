@@ -61,7 +61,10 @@ DIVIDE (
 
 ---
 
-## 📸 Dashboard
+## 📊 Dashboard Preview
 
+Here’s a snapshot of the Power BI dashboard created for customer churn analysis:
+
+![Dashboard Preview](plots/dashboard.png)
 
 ---
