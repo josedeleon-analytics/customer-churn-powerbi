@@ -73,13 +73,14 @@ Here’s a snapshot of the Power BI dashboard created for customer churn analysi
 ## 📂 Repository Structure
 
 ### Tree View
+```
 customer-churn-powerbi/
 ├── powerbi_file/Power BI - Customer Churn github.pbix # Power BI project file
 ├── plots/dashboard.png # Dashboard screenshot
 ├── LICENSE # License (MIT)
 ├── .gitignore # Ignored files config
 └── README.md # Project description (this file)
-
+```
 
 
 ### File Descriptions  
