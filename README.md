@@ -69,3 +69,54 @@ Here’s a snapshot of the Power BI dashboard created for customer churn analysi
 ![Dashboard Preview](plots/dashboard.png)
 
 ---
+
+## 📂 Repository Structure
+
+### Tree View
+customer-churn-powerbi/
+├── powerbi_file/Power BI - Customer Churn github.pbix # Power BI project file
+├── plots/dashboard.png # Dashboard screenshot
+├── LICENSE # License (MIT)
+├── .gitignore # Ignored files config
+└── README.md # Project description (this file)
+
+
+
+### File Descriptions  
+- [**Power BI - Customer Churn github.pbix**](powerbi_file/Power%20BI%20-%20Customer%20Churn%20github.pbix): Power BI project file with the data model, DAX measures, and interactive dashboard  
+- [**dashboard.png**](plots/dashboard.png): Preview screenshot of the churn dashboard  
+- [**.gitignore**](.gitignore): Files/folders excluded from version control  
+- [**LICENSE**](LICENSE): Open-source license (MIT)  
+- [**README.md**](README.md): Project overview and documentation  
+
+---
+
+## ▶️ How to Use the Power BI File
+
+1. Download the `.pbix` file from the [`powerbi_file/`](powerbi_file) folder.  
+2. Open it in **Power BI Desktop**.  
+3. Explore the data model, DAX measures, and interactive dashboard.  
+
+---
+
+## 🔑 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+---
+
+## 📜 References
+
+Microsoft Power BI Documentation. (n.d.). Visualizations in Power BI. Retrieved from https://learn.microsoft.com/en-us/power-bi/
+
+Excelerator BI. (2021). Measures vs Calculated Columns in DAX. Retrieved from https://exceleratorbi.com.au/
+
+McKinney, W. (2022). Effective Data Visualization for Business Intelligence. O’Reilly Media.
+
+---
+
+## 👤 Author
+Jose De Leon
+Master’s in Analytics Candidate, Northeastern University
+📬 [Email me](mailto:j.angel2294@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)
