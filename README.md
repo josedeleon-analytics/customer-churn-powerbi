@@ -58,6 +58,7 @@ DIVIDE (
     CALCULATE ( COUNTROWS('Customer Churn'), 'Customer Churn'[Churn] = 1 ),
     COUNTROWS('Customer Churn')
 )
+```
 
 ---
 
