@@ -10,7 +10,7 @@ This Power BI project analyzes **customer churn from 2020 to 2025** using intera
 ---
 
 ## 🔗 Live Dashboard
-👉 [View the interactive dashboard on Power BI Service](https://app.powerbi.com/view?r=YOUR-LINK-HERE)
+👉 [View the interactive dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/77e92f67-7f1f-45fb-9204-a7ccc50da0dc/711aadd9a25ecbdddcb7?experience=power-bi)
 
 *(Note: The report is published online for interactive exploration. Please allow time for it to load.)*
 
