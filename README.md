@@ -83,8 +83,8 @@ customer-churn-powerbi/
 ```
 
 ### File Descriptions  
-- [**Power BI - Customer Churn github.pbix**](powerbi_file/Power%20BI%20-%20Customer%20Churn%20github.pbix): Power BI project file with the data model, DAX measures, and interactive dashboard  
-- [**dashboard.png**](plots/dashboard.png): Preview screenshot of the churn dashboard  
+- [**Power BI - Customer Churn**](powerbi_file/Power%20BI%20-%20Customer%20Churn%20github.pbix): Power BI project file with the data model, DAX measures, and interactive dashboard  
+- [**Dashboard**](plots/dashboard.png): Preview screenshot of the churn dashboard  
 - [**.gitignore**](.gitignore): Files/folders excluded from version control  
 - [**LICENSE**](LICENSE): Open-source license (MIT)  
 - [**README.md**](README.md): Project overview and documentation  
