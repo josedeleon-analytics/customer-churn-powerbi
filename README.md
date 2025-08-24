@@ -1,7 +1,7 @@
 # 📊 Customer Churn Analysis Using Power BI
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/<username>/<repo>)  
+![Last Commit](https://img.shields.io/github/last-commit/josedeleon-analytics/customer-churn-powerbi)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%26%20Reports-yellow)
 
 ---
