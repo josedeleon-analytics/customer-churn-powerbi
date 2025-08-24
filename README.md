@@ -6,7 +6,7 @@
 ---
 
 ## 📖 Introduction
-Customer churn — the rate at which customers stop doing business with a service provider — is a critical performance indicator in telecom, finance, and SaaS industries.  
+Customer churn: the rate at which customers stop doing business with a service provider, is a critical performance indicator in telecom, finance, and SaaS industries.  
 
 This Power BI project analyzes **customer churn from 2020 to 2025** using interactive dashboards, DAX measures, and a custom date table. The goal was to uncover patterns in client attrition and identify actionable factors for improving retention strategies.
 
