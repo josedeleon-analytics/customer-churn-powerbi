@@ -19,6 +19,16 @@ This Power BI project analyzes **customer churn from 2020 to 2025** using intera
 
 ---
 
+## 📂 Project Files  
+- [`Power BI - Customer Churn`](project_files/Power%20BI%20-%20Customer%20Churn%20github.pbix)  
+- [`Project Report PDF`](project_files/Customer%20Churn%20Report%20github.pdf)  
+- [`Dataset`](project_files/global_superstore_2016_cleaned.csv)  
+- [`Plots`](plots/)  
+- [`LICENSE`](LICENSE)  
+- [`README.md`](README.md)
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: Data modeling, relationships, slicers, interactive visuals  
 - **DAX**: Custom measures for churn count, churn rate, rolling averages  
